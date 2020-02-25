@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1580851426 source:/home/roberto/Desktop/Grade_Book/SalesPerson/main.cpp
+	<iostream>
+	"SalesPerson.h"
+
+1580851426 /home/roberto/Desktop/Grade_Book/SalesPerson/SalesPerson.h
+
+1580851334 source:/home/roberto/Desktop/Grade_Book/SalesPerson/SalesPerson.cpp
+	<iostream>
+	<iomanip>
+	"SalesPerson.h"
+

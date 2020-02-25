@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1580072212 source:/home/roberto/Desktop/Grade_Book/Grade_Book/main.cpp
+	<iostream>
+	<string>
+	"GradeBook.h"
+
+1580072057 /home/roberto/Desktop/Grade_Book/Grade_Book/GradeBook.h
+	<iostream>
+	<string>
+
+1580243368 source:/home/roberto/Desktop/Grade_Book/Grade_Book/GradeBook.cpp
+	<iostream>
+	<string>
+	"GradeBook.h"
+

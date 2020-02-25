@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580935752 source:/home/roberto/Desktop/C++ Course/Time_Case_Study_V2/main.cpp
+	<iostream>
+	"Time.h"
+
+1580935663 /home/roberto/Desktop/C++ Course/Time_Case_Study_V2/Time.h
+
+1580935795 source:/home/roberto/Desktop/C++ Course/Time_Case_Study_V2/Time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Time.h"
+
