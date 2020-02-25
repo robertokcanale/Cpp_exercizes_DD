@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1581456755 source:/home/roberto/Desktop/C++ Course/Date_Employee/Date.cpp
+	<iostream>
+	"Date.h"
+
+1581456052 /home/roberto/Desktop/C++ Course/Date_Employee/Date.h
+
+1581542652 source:/home/roberto/Desktop/C++ Course/Date_Employee/main.cpp
+	<iostream>
+	"Employee.h"
+
+1581542618 /home/roberto/Desktop/C++ Course/Date_Employee/Employee.h
+	"string.h"
+	"Date.h"
+
+1581542633 source:/home/roberto/Desktop/C++ Course/Date_Employee/Employee.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+
