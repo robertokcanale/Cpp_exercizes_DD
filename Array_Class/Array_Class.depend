@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1582652878 source:/home/roberto/Desktop/C++ Course/Array_Class/Array.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"Array.h"
+
+1582652878 /home/roberto/Desktop/C++ Course/Array_Class/Array.h
+	<iostream>
+
+1582652395 source:/home/roberto/Desktop/C++ Course/Array_Class/main.cpp
+	<iostream>
+	"Array.h"
+

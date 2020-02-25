@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580939101 source:/home/roberto/Desktop/C++ Course/Date_Case_Study/Date.cpp
+	<iostream>
+	"Date.h"
+
+1580939101 /home/roberto/Desktop/C++ Course/Date_Case_Study/Date.h
+
