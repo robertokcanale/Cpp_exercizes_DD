@@ -1,15 +1,15 @@
-#ifndef COMMISSION_EMPLOYEE_H
-#define COMMISSION_EMPLOYEE_H
+#ifndef BASE_PLUS_COMMISSION_EMPLOYEE_H
+#define BASE_PLUS_COMMISSION_EMPLOYEE_H
 #include "string.h"
 
 
 using namespace std;
 
-class Commission_Employee
+class Base_Plus_Commission_Employee
 {
 public:
 
-    Commission_Employee(const string &, const string &, const string &, double, double);
+    Base_Plus_Commission_Employee(const string &, const string &, const string &, double = 0.0, double = 0.0, double = 0.0);
 
     void Set_FirstName(const string &);
     string Get_FirstName() const;
@@ -26,6 +26,9 @@ public:
     void Set_CommissionRate(double);
     double Get_CommissionRate() const;
 
+    void Set_BaseSalary(double);
+    double Get_BaseSalary() const;
+
     double earnings() const; //calculate earinings
     void print() const;
 
@@ -35,6 +38,7 @@ private:
     string last_name;
     double gross_sales;
     double commission_rate;
+    double base_salary;
 };
 
 

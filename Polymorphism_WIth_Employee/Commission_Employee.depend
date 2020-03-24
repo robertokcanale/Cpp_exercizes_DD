@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1583347895 source:/home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee/main.cpp
+	<iostream>
+
+1583355399 source:/home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee/Commission_Employee.cpp
+	<iostream>
+	"Commission_Employee.h"
+
+1583355305 /home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee/Commission_Employee.h
+	"string.h"
+
+1584029442 source:/home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee_Base_Inherit/Commission_Employee.cpp
+	<iostream>
+	"Commission_Employee.h"
+
+1584266006 /home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee_Base_Inherit/Commission_Employee.h
+	"string.h"
+
+1584029148 source:/home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee_Base_Inherit/main.cpp
+	<iostream>
+	<iomanip>
+	"BasePlus.h"
+
+1584266038 /home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee_Base_Inherit/BasePlus.h
+	"string.h"
+	"Commission_Employee.h"
+
+1584029641 source:/home/roberto/Desktop/Cpp_exercizes_DD/Commission_Employee_Base_Inherit/BasePlus_Commission_Employee.cpp
+	<iostream>
+	"BasePlus.h"
+

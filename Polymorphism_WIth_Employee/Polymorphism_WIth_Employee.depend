@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1585081139 source:/home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Employee.cpp
+	<iostream>
+	"Employee.h"
+
+1585080055 /home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Employee.h
+	"string.h"
+
+1585081583 source:/home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/BasePlus_Commission_Employee.cpp
+	<iostream>
+	"BasePlus.h"
+
+1585078437 /home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/BasePlus.h
+	"string.h"
+	"Commission_Employee.h"
+
+1585081187 /home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Commission_Employee.h
+	"Employee.h"
+	"string.h"
+
+1585081383 source:/home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Commission_Employee.cpp
+	<iostream>
+	"Commission_Employee.h"
+
+1585081119 source:/home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Salaried_Employee.cpp
+	<iostream>
+	"Salaried_Employee.h"
+
+1585081039 /home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/Salaried_Employee.h
+	"Employee.h"
+
+1585081557 source:/home/roberto/Desktop/Cpp_exercizes_DD/Polymorphism_WIth_Employee/main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Employee.h"
+	"Salaried_Employee.h"
+	"BasePlus.h"
+	"Commission_Employee.h"
+
